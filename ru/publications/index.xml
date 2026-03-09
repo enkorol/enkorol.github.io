@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://enkorol.github.io/ru/publications/</link>
+      <atom:link href="https://enkorol.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enkorol.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://enkorol.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Что такое CI/CD</title>
+      <link>https://enkorol.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://enkorol.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🚀 Что такое CI/CD&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; — это набор практик в разработке программного обеспечения, которые помогают автоматически тестировать, собирать и развёртывать приложения. Эти подходы позволяют быстрее выпускать обновления, уменьшать количество ошибок и упрощать командную работу разработчиков.&lt;/p&gt;
+&lt;p&gt;CI/CD состоит из двух основных частей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CI (Continuous Integration)&lt;/strong&gt; — непрерывная интеграция&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CD (Continuous Delivery / Continuous Deployment)&lt;/strong&gt; — непрерывная доставка или непрерывное развертывание&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-непрерывная-интеграция-ci&#34;&gt;🔧 Непрерывная интеграция (CI)&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция означает, что разработчики регулярно добавляют изменения в общий репозиторий проекта.&lt;/p&gt;
+&lt;p&gt;После каждого изменения автоматически запускается процесс:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;проверка кода&lt;/li&gt;
+&lt;li&gt;сборка проекта&lt;/li&gt;
+&lt;li&gt;запуск автоматических тестов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это позволяет быстро обнаружить ошибки и избежать ситуаций, когда разные части кода несовместимы друг с другом.&lt;/p&gt;
+&lt;h2 id=&#34;-непрерывная-доставка-и-развертывание-cd&#34;&gt;⚙️ Непрерывная доставка и развертывание (CD)&lt;/h2&gt;
+&lt;p&gt;После успешной проверки кода начинается следующий этап — доставка или развертывание приложения.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Delivery (непрерывная доставка)&lt;/strong&gt; — код автоматически готовится к выпуску, но финальное развертывание выполняется вручную.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Deployment (непрерывное развертывание)&lt;/strong&gt; — каждое изменение, которое прошло тесты, автоматически отправляется в рабочую среду.&lt;/p&gt;
+&lt;p&gt;Таким образом, пользователи могут получать новые функции и исправления практически сразу после их разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-инструменты-cicd&#34;&gt;🛠 Инструменты CI/CD&lt;/h2&gt;
+&lt;p&gt;Для автоматизации процессов CI/CD используются специальные платформы и сервисы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;GitLab CI/CD&lt;/li&gt;
+&lt;li&gt;Jenkins&lt;/li&gt;
+&lt;li&gt;CircleCI&lt;/li&gt;
+&lt;li&gt;Travis CI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Они помогают настроить автоматические процессы тестирования, сборки и публикации приложений.&lt;/p&gt;
+&lt;h2 id=&#34;-почему-cicd-важно&#34;&gt;📈 Почему CI/CD важно&lt;/h2&gt;
+&lt;p&gt;Использование CI/CD дает несколько важных преимуществ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;более быстрый выпуск обновлений&lt;/li&gt;
+&lt;li&gt;снижение количества ошибок&lt;/li&gt;
+&lt;li&gt;автоматизация процессов разработки&lt;/li&gt;
+&lt;li&gt;улучшение взаимодействия в команде&lt;/li&gt;
+&lt;li&gt;повышение стабильности программного продукта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;💡 Итог&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция и непрерывное развертывание стали важной частью современной разработки программного обеспечения. Эти практики помогают компаниям быстрее внедрять новые функции, поддерживать качество продукта и эффективно управлять процессом разработки.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
