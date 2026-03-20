@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT | </title>
+    <link>https://enkorol.github.io/ru/tags/it/</link>
+      <atom:link href="https://enkorol.github.io/ru/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enkorol.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>IT</title>
+      <link>https://enkorol.github.io/ru/tags/it/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://enkorol.github.io/ru/publications/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://enkorol.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это инструменты, которые позволяют структурировать текст с помощью простого и понятного синтаксиса. Их основная задача — сделать текст читаемым как для человека, так и для программ.&lt;/p&gt;
+&lt;p&gt;В отличие от более сложных языков разметки, таких как HTML, легковесные варианты используют минимальное количество символов и не перегружают текст лишними тегами.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡 Один из самых популярных примеров — &lt;strong&gt;Markdown&lt;/strong&gt;. Он широко используется для написания документации, README-файлов и даже блогов.&lt;/li&gt;
+&lt;li&gt;📄 Также существует &lt;strong&gt;reStructuredText&lt;/strong&gt;, который применяется, например, в документации на Python.&lt;/li&gt;
+&lt;li&gt;⚙️ Легковесные языки часто используются в системах контроля версий, таких как Git, где важно быстро и удобно оформлять текст.&lt;/li&gt;
+&lt;li&gt;🌐 Многие платформы (например, GitHub, Notion) поддерживают такие языки, позволяя оформлять текст без сложных инструментов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Главное преимущество легковесных языков — это их простота. Пользователю не нужно изучать сложный синтаксис, чтобы создать структурированный и аккуратный документ.&lt;/p&gt;
+&lt;p&gt;Кроме того, такие языки легко конвертируются в HTML, PDF и другие форматы, что делает их универсальным инструментом в работе с текстом.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки активно используются в IT-сфере: от ведения заметок до создания полноценной технической документации. Они помогают сосредоточиться на содержании, а не на сложной структуре оформления.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
