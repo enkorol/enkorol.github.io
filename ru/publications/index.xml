@@ -5,12 +5,31 @@
     <link>https://enkorol.github.io/ru/publications/</link>
       <atom:link href="https://enkorol.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://enkorol.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://enkorol.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://enkorol.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://enkorol.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-создание-презентаций&#34;&gt;🎤 Создание презентаций&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделила внимание развитию навыков создания презентаций — важного инструмента для представления идей, проектов и аналитики в сфере &lt;strong&gt;бизнес-информатики&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 Изучила базовые принципы построения презентации: &lt;strong&gt;логичная структура, четкое разделение на блоки и последовательное раскрытие темы&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🎨 Работала над визуальной частью — училась подбирать &lt;strong&gt;цветовые схемы, шрифты и минималистичный дизайн&lt;/strong&gt;, чтобы слайды выглядели профессионально и не перегружали восприятие.&lt;/li&gt;
+&lt;li&gt;📊 Освоила способы представления информации через &lt;strong&gt;графики, диаграммы и схемы&lt;/strong&gt;, что делает данные более понятными и наглядными.&lt;/li&gt;
+&lt;li&gt;📝 Поняла важность краткости: старалась формулировать мысли так, чтобы &lt;strong&gt;один слайд = одна идея&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🗣 Практиковалась в устном сопровождении презентации — это помогает лучше донести смысл и удерживать внимание аудитории.&lt;/li&gt;
+&lt;li&gt;🤝 Получила обратную связь, которая помогла увидеть слабые места и улучшить подачу материала.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа над презентациями показала, что это не просто набор слайдов, а полноценный инструмент коммуникации. Грамотно оформленная и структурированная презентация значительно повышает эффективность передачи информации и помогает убедительно представить свои идеи.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
